@@ -6,6 +6,8 @@ It is based on these two repositories:
 * [Brad Traversy's Docker Compose File for WordPress](https://gist.github.com/bradtraversy/faa8de544c62eef3f31de406982f1d42)
 * [Chris Zarate's WordPress Plugin/ Theme Development Docker Compose Configuration](https://github.com/chriszarate/docker-compose-wordpress)
 
+I've also created a YouTube video to walk through the setup process. You can find that video here: https://youtu.be/CqVV5xXydBQ 
+
 ## Getting Started
 
 ### Installing WordPress and MySQL
